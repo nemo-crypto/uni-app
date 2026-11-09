@@ -2,6 +2,18 @@
 
 当前目录包含基于HTML、jQuery和MUI的登录、任务、测评、统计及雷达图页面。虽然原README标为uni-app，但现有入口与资源属于静态/H5应用结构，没有uni-app源码清单或Node构建配置。
 
+<!-- BEGIN project-discovery -->
+## 项目定位与实践入口
+
+MUI / HTML5 mobile UI examples for cognitive assessment, task flows and radar charts. 认知测评 H5 页面与交互示例；历史仓库名 uni-app，当前不是 Vue uni-app 工程。
+
+适合从以下入口阅读实现与接入条件：
+
+- [登录与任务入口](login.html)
+- [实验页面](WebContent/experiments/)
+- [雷达图示例](radar.html)
+<!-- END project-discovery -->
+
 ## 目录与功能
 
 | 路径 | 说明 |
